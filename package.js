@@ -2,7 +2,7 @@ Package.describe({
   name: 'fish:ffmpeg',
   summary: 'ffmpeg packaged for meteor. Uses fluent-ffmpeg',
   version: '0.1.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/fishdude/meteor-ffmpeg.git'
 });
 
 Package.onUse(function(api) {
